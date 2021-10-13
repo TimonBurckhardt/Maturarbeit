@@ -1,0 +1,125 @@
+---
+title: 💭 MA-Konzept
+---
+
+-
+  - Thema/Arbeitstitel
+    - Notizen zu den Schweizer Spitzenverbänden des 20. Jarhhunderts
+      - _Meine Ideen und Gedanken über die Schweizer Spitzenverbände des 20. Jahrhunderts, gesammelt als vernetzte Notizen im digitalen Zettelkasten._
+  - Ausführungen zum Hintergrund der Arbeit
+    - Thematischer Kurzabriss
+      - In meiner MA lege ich meinen Fokus auf zwei verschiedene Aspekte, wobei ein Aspekt den Inhalt des praktischen Teils prägen wird, während der andere im schriftlichen Kommentar vertreten sein wird:
+        - Der Praktische Teil ist ein "Zettelkasten" (_siehe Sönke Ahrens Buch "How to Take Smart Notes"_), gefüllt mit meinen Notizen. Als Oberthema, bzw. Ausgangspunkt, des Themas befasse ich mich mit der Geschichte der Spitzenverbände der Schweiz und deren Einfluss auf die Politik. Die Notizen sollten sowohl mein Verständnis des Themas, als auch meine Ideen und Gedanken zum Thema enthalten, und diese in einer durchsuchbaren und vernetzten Form zusammenhalten.
+          - Konkret werde ich mich voraussichtlich vor allem mit den Spitzenverbänden, d.h. SGB, SGV, BVS und eventuell Economiesuisse und SHIV befassen. Mich interessiert, in wie fern diese Verbände die Schweizer Politik im 20. Jahrhundert geprägt haben, und wie sich dieser Einfluss über die Jahrzehnte verändert hat.
+        - Im schriftlichen Kommentar fokussiere ich mich nicht auf den Inhalt meines Zettelkasten, sondern auf meine Erfahrungen mit der Methodik des Zettelkastens.
+    - Akademische Relevanz des gewählten Themas
+      - Eine mögliche akademische Relevanz meiner MA sehe ich vor allem im schriftlichen Kommentar, d.h. in meinen Erfahrungen mit dem Zettelkasten. Der nicht-lineare Prozess des Zettelkastens bietet in Kombination mit neuen (software-)technischen Möglichkeiten neue Perspektiven auf den Schreib-Prozess einer akademischen Arbeit. Genau mit diese Möglichkeiten möchte ich in diesen Monaten vertieft auseinandersetzen.
+      - Bezüglich des Inhalts erhoffe ich mir keine grossem akademische Relevanz. Um eine neue Erkenntnis zu diesem Thema zu erlangen, müsste ich wohl viel zielgerichteter vorgehen und mir mehr Zeit nehmen.
+    - Persönliche Erkentnissinteressen
+      - Im Gegensatz zur akademischen Relevanz denke ich, dass der Inhalt eine sehr grosse persönliche Relevanz hat. Ich gehe davon aus, dass ich mit der Geschichte der Interessenverbände auch die heutige Rolle der Spitzenverbände besser verstehe, und so ein umfassenderes Verständnis des Politik-Alltags der Schweiz erlangen kann.
+      - Auch auf persönlicher Ebene erhoffe ich mir viel davon, ein paar Monate mit dem Zettelkasten zu arbeiten. Ich gehe davon aus, dass ich nach Ablauf dieses Zeitraumes viel besser weiss, in wie fern ich einen Zettelkasten zum Beispiel im Hinblick auf ein Studium einsetzen kann.
+  - Problemaufriss, Fragestellung und Hypothesenformulierung
+    - Wie entwickelten sich die Schweizer Spitzenverbände während dem 20. Jahrhundert...
+      - ...in Bezug auf Mitgliedstärke?
+      - ...in Bezug auf ihren relativen Einfluss auf die Politik im Bundeshaus, sowohl direkt als auch indirekt.
+    - Wie entwickelten sich die Beziehungen zwischen diesen Interessenverbänden?
+      - These: _Die Interessenverbände beeinflussen sich sehr direkt. Mal geschieht dies durch eine Veränderung der relativen Einflusstärke eines Verbandes. So hat ein erstarken der Arbeitnehmerverbände vermutlich einen sehr direkten Einfluss auf die Arbeitgeberverbände, und umgekehrt. Des weitern gehe ich davon aus, dass sich immer wieder neue Allianzen zwischen den verschiedenen Verbänden bildeten, genau wie sich auch neue Gräben öffneten._
+    - Wie beeinflussten die Verbände das Parlament der Schweiz?
+      - _Führte das Engagement der Verbände zu einer grösseren Macht des Parlamentes, oder bildete sich eine "Privatregierung" die sich nicht in den Institutionen des Bundesstaates manifestierte?_
+  - Methodisches Vorgehen
+    - Mein methodisches Vorgehen wird sehr stark vom Zettelkasten geprägt sein. Durch diese Fokussierung auf das Sammeln und Verarbeiten von Ideen werde ich sehr viel lesen, und dabei immer auch Notizen nehmen. Auch geht der Prozess nach dem Lesen noch weiter, da ich die Notizen in eine gewinnbringende Form bringen möchte, um sie so mit meinen anderen Notizen verknüpfen zu können.
+    - Als Quellen werde ich wohl vor allem auf schnell verfügbare Informationen angewiesen sei, damit ich fliessend zwischen den verschiedenen spannenden Aspekten des Themas hin und her wechseln kann. Daher werde ich viele Internetquellen nutzen, seien es Seiten wie das Historische Lexikon der Schweiz, oder aber Seiten über welche ich auf Papers und Bücher zum Thema zugreifen kann. Insbesondere für Bücher werde ich wohl auch immer wieder auf die Unibibliothek zurückgreifen.
+  - Gliederung
+    - Einleitung
+      - Motivation
+      - Ziel
+    - Hauptteil
+      - Der Zettelkasten kurz erklärt
+      - Technische Aspekte (Software etc.)
+      - _Persönliche Erfahrungen_
+        - Eingrenzung des Themengebietes
+        - ...
+        - ...
+        - ...
+      - Schluss
+        - Fazit? (was hat geklappt, was nicht...)
+        - Ausblick (wie werde ich die Methode weiter nutzen...)
+  - Gesammelte Materialien
+    - Mögliche Quelle
+      - Literatur unter Eintrag "Verbände" im HLS
+        - E. Gruner, Die Wirtschaftsverbände in der Demokratie, 1956
+        - J. Meynaud, Les organisations professionnelles en Suisse, 1963
+        - K. Meyer, V. und Demokratie in der Schweiz, 1968
+          id:: 607c49bf-4042-4ac0-a9fd-ad22d3c192a3
+        - L. Neidhart, Plebiszit und pluralitäre Demokratie, 1970
+        - P.J. Katzenstein, Corporatism and Change, 1984
+        - B. Hauser, Wirtschaftsverbände im frühen schweiz. Bundesstaat 1848-1874, 1985
+        - Wirtschaftsverbände in der Schweiz, hg. von P. Farago, H. Kriesi, 1986
+        - A. Mach, «Associations d'intérêts», in Hb. der Schweizer Politik, hg. von
+        - U. Klöti et al., 1999, 299-33
+        - B. Degen, «Gesch. der NPO in der Schweiz», in Der dritte Sektor der Schweiz, 2010, 59-97
+      - Literatur unter Eintrag "SHIV" im HLS
+        - Wehrli, Bernhard: Aus der Geschichte des Schweizerischen Handels- und Industrie-Vereins, 1870-1970, 1970.
+        - Gees, Thomas: «Interessenclearing und innere Absicherung», in: Hug, Peter; Kloter, Martin (Hg.): Aufstieg und Niedergang des Bilateralismus. Schweizerische Aussen- und Aussenwirtschaftspolitik 1930-1960: Rahmenbedingungen, Entscheidungsstrukturen, Fallstudien, 1999, S. 141-172.
+        - Meier, Martin; Frech, Stefan et al.: Schweizerische Aussenwirtschaftspolitik 1930-1948. Strukturen – Verhandlungen – Funktionen, 2002 (Veröffentlichungen der Unabhängigen Expertenkommission Schweiz – Zweiter Weltkrieg, 10).
+        - Humair, Cédric: Développement économique et Etat central (1815-1914). Un siècle de politique douanière suisse au service des élites, 2004.
+      - Literatur unter Eintrag "SBV" im HLS
+        - O. Howald, 50 Jahre Schweiz. Bauernverband, 1897-1947, 1947
+        - P. Halbherr, A. Müdespacher, Organisierte Interessen und Verteilungseffekte in der schweiz. Agrarpolitik, 1984
+        - H. Brugger, Landwirtschaftl. Vereinigungen der Schweiz 1910 bis 1980, 1989
+        - W. Baumann, Bauernstand und Bürgerblock, 1993
+        - W. Baumann, P. Moser, Bauern im Industriestaat, 1999
+      - Literatur unter Eintrag "SGV" im HLS
+        - H. Tschumi, Der SGV, 1879-1929, 1929
+        - A. Gutersohn, J. Weibel, Das Gewerbe in der schweiz. Wirtschaftspolitik, 1954
+        - M. Trossmann, «Der SGV, 1879-1979», in Das Gewerbe in der Schweiz, 1979, 5-58
+        - K. Angst, Von der "alten" zur "neuen" Gewerbepolitik, 1992
+        - 125 Jahre SGV, 2004
+      - Literatur unter Eintrag "SGB" im HLS
+        - B. Degen, Richtungskämpfe im SGB, 1918-1924, 1980
+        - P. Garbani, J. Schmid, Le syndicalisme suisse, 1980
+        - E. Ribbe-Ochsner, Der SGB und seine Verbände, 1980 (mit Bibl.)
+        - E. Kobelt, Die Wirtschaftspolitik der Gewerkschaften, 1920-1950, 1987
+        - Gruner, Arbeiterschaft 2
+        - B. Degen, Abschied vom Klassenkampf, 1991
+        - R. Fluder et al., Gewerkschaften und Angestelltenverbände in der Schweiz. Privatwirtschaft, 1991
+        - M. Kübler, Die Integration des SGB in das polit. System der Schweiz in den Jahren 1908 bis 1939, 1998
+        - Vom Wert der Arbeit, hg. von V. Boillat et al., 2006
+      - Literatur unter Eintrag "Unternehmerverbände" im HSL
+        - B. Hotz, Politik zwischen Staat und Wirtschaft, 1979
+        - B.R. Zimmermann, Verbands- und Wirtschaftspolitik am Übergang zum Staatsinterventionismus, 1980
+        - H. Schmid, Wirtschaft, Staat und Macht, 1983
+        - B. Hauser, Wirtschaftsverbände im frühen schweiz. Bundesstaat, 1985
+        - Wirtschaftsverbände in der Schweiz, hg. von P. Farago, H. Kriesi, 1986
+        - Liberté économique et responsabilité sociale, hg. von J.-F. Cavin, 2004
+        - H. Kriesi, «Institutional filters and path dependency», in Governing Interests, hg. von W. Streeck et al., 2006, 49-67
+      - Literatur unter Eintrag "Interessengruppen" im HSL
+        - F. Schneider, Der Einfluss von I. auf die Wirtschaftspolitik, 1985
+        - A. Mach, «Associations d'intérêts», in Hb. der Schweizer Politik, hg. von U. Klöti et al., 1999, 299-334
+      - A. Vatter, Das politische System der Schweiz, 4. Die Verbände und das Verbandssystem
+    - Pascal Sciarini scheint sich damit auseinanderzusetzen...
+    - Bereits vorhandene Quellen
+      - Bücher:
+        - _Geschichte der Schweiz im 20. Jahrhundert, Jakob Tanner_
+        - _Macht.CH, Ueli Mäder_
+      - Internetquellen:
+        - _Historisches Lexikon der Schweiz_
+    - Zu bestellende Bücher:
+      - ???
+        background_color:: #793e3e
+  - Weitere Ressourcen
+    - Behilfliche Personen
+      - Auf inhaltlicher Ebene ist mir bisher keine Person in meinem Umfeld bekannt, die ein fundiertes Wissen über das Thema besitzt. Ich kann mir aber sehr gut vorstellen, dass ich mit vielen Personen in meinem Umfeld trotzdem spannende Diskussionen über das Thema führen werde, da sich gewiss einige dieser Menschen auch für das Thema interessieren.
+      - Ältere Personen in meinem Umfeld können mir vielleicht einen kleinen Einblick geben, wie sie den Wandel in der Interessenpolitik der Schweiz persönlich erlebt haben. Ich gehe aber nicht davon aus, dass ich fundierte Umfragen zu diesem Thema durchführen werde.
+      - Ich kann mir sehr gut vorstellen, mich in Einzelfällen direkt an die Autor*innen der gelesenen Literatur zu wenden, um so eventuell zu weiteren spannenden Gesprächen zu finden.
+    - Finanzielle Ressourcen
+      - Ich bin für meine Arbeit voraussichtlich nur für neue Bücher, die ich nicht in der Unibibliothek oder sonst in einer Bibliothek finde, auf Geld angewiesen. Daher muss ich mir über diesen Punkt vorerst keine weiteren Gedanken machen.
+  - Zeitplan
+    - Grundsätzlich ist es bei meiner Arbeit weder möglich noch erwünscht, einen klaren Zeitplan zu erstellen. Ein paar Fixpunkte kann ich mir aber schon setzten:
+      - Vor den Herbstferien muss eine fertige Version des Kommentars vorhanden sein
+        - _=> in den Herbstferien kann diese dann überarbeitet werden_
+      - In den Herbstferien kommen keine neuen Notizen mehr zur Sammlung
+        - _=> in den Herbstferien geht es nur noch darum, die Notizen zu sortieren und unnötiges aus dem Graph zu löschen._
+      - Nach den Sommerferien will ich grundsätzlich keine neuen Bücher o.ä. mehr lesen, sondern nur noch die Notizen weiterverarbeiten und in Einzelfällen sehr zielgerichtet "Lücken" füllen.
+      - Nach den Sommerferien sollte ich einen ersten groben Entwurf des schriftlichen Kommentars haben.
+    - Aus diesen Punkten geht hervor, dass ich in der Periode Frühlingsferien bis Ende Sommerferien viel lesen werde, mich aber auch dann schon mit den Notizen befasse, da sich diese zwei Prozesse nicht voneinander abtrennen lasen. Tendenziell werde ich wohl zu Beginn mehr "grosse" Literatur lesen, um mir einen Überblick zu verschaffen, und später dann nur noch sehr zielgerichtet gewisse "Lücken" füllen, um eine einigermassen kohärente Notizsammlung zu erreichen.

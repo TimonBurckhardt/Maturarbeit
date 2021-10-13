@@ -1,0 +1,6 @@
+- Notiztyp: [[⏯]]
+- Quelle: [[🚼 How to Take Smart Notes - Sönke Ahrens]]
+- Verknüpfungen: [[⏯ Was wir brauchen, um gute Notizen zu machen]]
+- Datum: [[Dec 8th, 2020]]
+- "Gute" Schüler*innen unterschätzen sich oft, während "schlechte" sich in der Regel eher überschätzen.
+	- Dies liegt wohl daran, dass gute Schüler:innen ihre eigenen Ansprüche konstant höher setzen, wenn sie selber neues gelernt haben. Des weiteren haben gute Schüler*innen eher den Anspruch, selber etwas herauszufinden und auch mal über den eigenen Zaun hinweg zu schauen.

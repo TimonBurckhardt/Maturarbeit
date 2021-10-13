@@ -1,0 +1,190 @@
+---
+title: 🚼 Geschichte der Schweiz im 20. Jahrhundert - Jakob Tanner
+---
+
+- Notiztyp: [[🚼]] Schweiz 20. Jahrhundert
+- Quelle: 📜 TANNER 2015
+- Autor*in: Jakob Tanner
+- Datum: [[Dec 27th, 2020]]
+- Spanennde Themengebiete
+	- ^^Schweiz und Kolonialismus^^
+	- Klassenkampf von Oben
+	- Schweiz als politische Drehscheibe
+		- Anarchismus
+		- Sozialismus
+		- ...
+	- Landesstreik
+	- Fremdenfeindlichkeit
+		- Gastarbeitertum
+	- ^^Kulturkampf vs Klassenkampf^^
+		- ^^Antisozialismus/Antikommunismus in der Schweiz^^
+			- Fichen...
+	- Migros als Konsumtempel
+	- Sozialpolitik in der Schweiz
+	- Finanz-/Steuerpolitik in der Schweiz
+		- nachrichtenlose Vermögen
+		- Raubgold
+	- ^^Geistige Landesverteidigung^^
+	- ^^Neutralitätspolitik^^
+	- ^^Plan Wahlen und Ernährungs-/Landwirtschaftspolitik^^
+	- P26
+	- Fichen
+		- Fichen von Urgrossvati?
+	- too big to fail...
+	- Bergier Kommission
+	- ^^Interessenverbände/Macht/Privatregierung/Filz/...^^
+		- Konzernverantwortungsinitiative?
+- Vorwort (von Ulrich Herbert)
+	- [[⏯ Das lange 20. Jahrhundert Europas]] (📜 TANNER 2015, 8f.)
+	- [[⏯ Europa zwischen Differenzen und Konvergenzen]] (📜 TANNER 2015, 8)
+- Einleitung
+	- [[⏯ Die Schweiz als Nation ohne Geschichte]] (📜 TANNER 2015, 11, 18f.)
+	- [[⏯ Der Nationalstolz als Schutzwall]] (📜 TANNER 2015, 12ff.)
+	- [[⏯ Willensnation oder Zwangseinheit?]] (📜 TANNER 2015, 20ff.)
+	- [[⏯ Die Macht des Kleinstaates Schweiz]] (📜 TANNER 2015, 26ff.)
+	- [[⏯ Mängel der (Schweizerischen) direkten Demokratie]] (📜 TANNER 2015 31ff.)
+	- [[⏯ Die moderne Schweiz zwischen Demokratie, Kapitalismus und Nationalstolz]] (📜 TANNER 2015, 34)
+- Robuster Kleinstaat
+	- 1. Prosperität um 1900
+		- [[⏯ Politische Mächte im Bundesstaat des Fin de Siècles]] (📜 TANNER 2015, 36)
+		- [[⏯ Erstarkende Linke um 1900]] (📜 TANNER 2015, 37)
+		- [[⏯ Urbanisierung in der Schweiz um 1900]] (📜 TANNER 2015, 38f.)
+		- [[⏯ Freiburger "Christliche Republik"]] (📜 TANNER 2015, 41)
+		- [[⏯ Industrie 2.0 in der Schweiz]] (📜 TANNER 2015, 43f.)
+		- [[⏯ Diskriminierung der Schweizer Frauen um 1900]] (📜 TANNER 2015, 45f.)
+		- [[⏯ Aufkommende Grossbanken in der Schweiz]] (📜 TANNER 2015, 47f.)
+		- [[⏯ Prosperität trotz negativer Handelsbilanz]] (📜 TANNER 2015, 49)
+		- [[⏯ Kartelle & Verbandsfreiheit in der Schweiz]] (📜 TANNER 2015, 54ff.)
+		- [[⏯ "Privatregierung" der Interessenverbände]] (📜 TANNER 2015, 54f.)
+		- [[⏯ Territoriale Aussenpolitik der Schweiz]] (📜 TANNER 2015, 57ff.)
+		- [[⏯ Neutrale Schweiz und der Kolonialismus]] (📜 TANNER 2015, 60)
+		- [[⏯ Drei Wege zur Prosperität im "Fin de Siècle"]] (📜 TANNER 2015, 64f.)
+			- [[⏯ Die Schweiz im Positivsummenspiel]] (📜 TANNER 2015, 64)
+			- [[⏯ Die Schweiz als Trittbrettfahrerin]] (📜 TANNER 2015, 64f.)
+			- [[⏯ Die Schweiz und die Neutralitätsdividende]] (📜 TANNER 2015, 65f.)
+		- [[⏯ Neutrale Schweiz als internationale Verbindungsmacht]] (📜 TANNER 2015, 66f.)
+	- 2. Fin de Siècle und Belle Époque (1890 bis 1912)
+		- [[⏯ Flexibles Nationalbewusstsein]] (📜 TANNER 2015, 72f.)
+		- [[⏯ Fremdenfeindlichkeit der Schweiz um 1900]] (📜 TANNER 2015, 77ff.)
+		- [[⏯ Diskriminierung der Schweizer Frauen um 1900]] (📜 TANNER 2015, 19ff.)
+		- [[⏯ Konservative Schweizer Demokratie]] (📜 TANNER 2015, 81ff.)
+		- [[⏯ Schweizer Sozialpolitik um 1900]] (📜 TANNER 2015, 85ff.)
+		- [[⏯ Schweizer Steuerpolitik um 1900]] (📜 TANNER 2015, 89ff.)
+		- [[⏯ Streikkultur in der Schweiz um 1900]] (📜 TANNER 2015, 99ff.)
+		- [[⏯ Der Bauern-Bürgerblock]] (📜 TANNER 2015, 102ff.)
+		- [[⏯ Überwachungsapparat gegen "Anarchistische Asylanten"]] (📜 TANNER 2015, 105ff.)
+		- [[⏯ Schweizer Armee als Fundament der bewaffneten Neutralität]] (📜 TANNER 2015, 108ff.)
+	-
+	  3. 1. Weltkrieg und Landesstreik (1913 bis 1918)
+		- [[⏯ Unvorbereitete Schweiz im 1. Weltkrieg]] (📜 TANNER 2015, 116ff.)
+		- [[⏯ Die Deutschschweiz und die Mittelmächte im 1. Weltkrieg]] (📜 TANNER 2015, 120ff.)
+		- [[⏯ Wirtschafts- statt Grenzschutz]] (📜 TANNER 2015, 123ff.)
+		- [[⏯ Röstigraben im 1. Weltkrieg]] (📜 TANNER 2015, 128ff.)
+		- [[⏯ Humanitäre Schweiz im 1. Weltkrieg]] (📜 TANNER 2015, 130f.)
+		- [[⏯ Schweiz als Drehscheibe internationaler Strömungen]] (📜 TANNER 2015, 132ff.)
+		- [[⏯ Klassenunterschiede in der Schweiz im 1. Weltkrieg]] (📜 TANNER 2015, 135f.)
+		- [[⏯ Radikalisierte Linke und das OAK]] (📜 TANNER 2015, 149ff.)
+		- [[⏯ Beginn des Landesstreiks 1918]] (📜 TANNER 2015, 149ff.)
+		- [[⏯ Niederschlagung des Landesstreiks 1918]] (📜 TANNER 2015, 149ff.)
+		- [[⏯ Sozialpartnerschaft statt Streiks]] (📜 TANNER 2015, 152ff.)
+		- [[⏯ Abspaltung der Kommunistischen Partei Schweiz (KPS)]] (📜 TANNER 2015, 154)
+	- 4. Völkerbund, Bürgerwehren, Klassenkämpfe
+		- [[⏯ Beitritt zum Völkerbund]] (📜 TANNER 2015, 156ff.)
+		- [[⏯ Einführung des Proporz-Wahlsystems]] (📜 TANNER 2015, 159ff.)
+		- [[⏯ Reaktionäre Verbände nach dem 1. Weltkrieg]] (📜 TANNER 2015, 162ff.)
+		- [[⏯ Fremdenfeindlichkeit der Schweiz nach dem 1. Weltkrieg]] (📜 TANNER 2015, 169ff.)
+		- [[⏯ Vermögensinitiative 1922]] (📜 TANNER 2015, 170ff.)
+- Bedrohte Nation, offene Volkswirtschaft
+	- 5. Dissonanzen der Moderne um 1925
+		- [[⏯ Politisches Klima im Bundesstaat um 1925]] (📜 TANNER 2015, 179ff.)
+		- [[⏯ Schweizer Sozialpolitik um 1925]] (📜 TANNER 2015, 179ff.)
+		- [[⏯ Mittelstand statt Klassenkampf]] (📜 TANNER 2015, 183f.)
+		- [[⏯ Wirtschaftsfestung Schweiz]] (📜 TANNER 2015, 185)
+		- [[⏯ Steueroase Schweiz]] (📜 TANNER 2015, 186ff.)
+		- [[⏯ Steuerhinterzug in der Schweiz]] (📜 TANNER 2015, 192f.)
+	- 6. Nationale Konflikte und "Geistige Landesverteidung" (1920 bis 1939)
+		- [[⏯ Frauenpolitik um 1930]] (📜 TANNER 2015, 206ff.)
+		- [[⏯ Rationalisierung und Subventionierung der Landwirtschaft in der Zwischenkriegszeit]] (📜 TANNER 2015, 211f.)
+		- [[⏯ Schweizer Banken in der Grossen Depression]] (📜 TANNER 2015, 213ff.)
+		- [[⏯ Erneuerungsbewegungen und der Frontenfrühling 1933]] (📜 TANNER 2015, 219ff.)
+		- [[⏯ Notrecht in der Schweiz im zweiten Weltkrieg]] (📜 TANNER 2015, 225f.)
+		- [[⏯ Integration der Sozialdemokratie in der Zwischenkriegszeit]] (📜 TANNER 2015, 228ff.)
+		- [[⏯ Geistige Landesverteidigung und Erneuerungsrhetorik]] (📜 TANNER 2015, 235f.)
+		- [[⏯ Rassistische Schweizer Wissenschaft]] (📜 TANNER 2015, 240ff.)
+		- [[⏯ Schweiz und der J-Stempel im zweiten Weltkrieg]] (📜 TANNER 2015, 243f.)
+	- 7. "Die Ereignisse marschieren schnell" um 1940 2. Weltkrieg
+		- [[⏯ Schweiz inmitten der Achsenmächte]] (📜 TANNER 2015, 256)
+		- [[⏯ General Henri Guisan]] (📜 TANNER 2015, 257f.)
+		- [[⏯ Erneuerungsbewegungen und der Frontenfrühling 1933]] (📜 TANNER 2015, 259ff.)
+		- [[⏯ Die Schweiz im Reduit]] (📜 TANNER 2015, 265ff.)
+		- [[⏯ Wirtschaftspolitik im zweiten Weltkrieg]] (📜 TANNER 2015, 273)
+		- [[⏯ Raubgoldübernahmen im zweiten Weltkrieg]] (📜 TANNER 2015, 275)
+		- [[⏯ Notrecht in der Schweiz im zweiten Weltkrieg]] (📜 TANNER 2015, 281)
+		- [[⏯ Schweizer Flüchtlingspolitik im zweiten Weltkrieg]] (📜 TANNER 2015, 283ff.)
+		- [[⏯ Wankende Neutralitätspolitik im zweiten Weltkrieg]] (288ff.)
+	- 8. Wirtschaftswachstum und Kalter Krieg (1943 bis 1964)
+		- [[⏯ Unversehrte Schweiz]] (📜 TANNER 2015, 292f.)
+		- [[⏯ Raubgoldübernahmen im zweiten Weltkrieg]] (📜 TANNER 2015, 295f.)
+		- [[⏯ Sozialpartnerschaft statt Streiks]] (📜 TANNER 2015, 297f.)
+		- [[⏯ Kurzer Frühling der Erinnerung in der Schweiz]] (📜 TANNER 2015, 299f.)
+		- [[⏯ Notrecht in der Schweiz im zweiten Weltkrieg]] (📜 TANNER 2015, 300f.)
+		- [[⏯ Schweizer Aussenpolitik in der Nachkriegszeit]] (📜 TANNER 2015, 304ff.)
+			- [[⏯ Neutrale Schweiz im Westen]] (📜 TANNER 2015, 305)
+			- [[⏯ Wirtschaft ohne Politik]] (📜 TANNER 2015, 305)
+			- [[⏯ Sonderfall Schweiz]] (📜 TANNER 2015, 306)
+			- [[⏯ Humanitäre Schweiz ohne Menschenrechte]] (📜 TANNER 2015, 306f.)
+		- [[⏯ Die Schweizer Zauberformel]] (📜 TANNER 2015, 310ff.)
+		- [[⏯ Klassenunterschiede in der Schweiz in der Nachkriegszeit]] (📜 TANNER 2015, 313ff.)
+		- [[⏯ Die Angst einer Wirtschaftskrise der Nachkriegszeit]] (📜 TANNER 2015, 315ff.)
+		- [[⏯ Ungarn-Flüchtlinge in der Schweiz]] (📜 TANNER 2015, 324f.)
+		- [[⏯ "Trente glorieuses" in der Schweiz]] (📜 TANNER 2015, 333ff.)
+		- [[⏯ Fremdenfeindlichkeit vs Gastarbeiter]] (📜 TANNER 2015, 338ff.)
+		- [[⏯ Gesunder Bauernstand vs industrielle Landwirtschaft]] (📜 TANNER 2015, 341f.)
+		- [[⏯ Florierende Schweizer Finanzwirtschaft in der Nachkriegszeit]] (📜 TANNER 2015, 343ff.)
+		- [[⏯ Bildung und Wissenschaft in der Schweiz im Kalten Krieg]] (📜 TANNER 2015, 346ff.)
+	- 9. Konsummoderne in der helvetischen Malaise um 1965
+		- [[⏯ Parteipolitische Stabilität um 1965]] (📜 TANNER 2015, 357, 373ff.)
+		- [[⏯ Autos und Mobilität in der Schweiz um 1965]] (📜 TANNER 2015, 364ff.)
+		- [[⏯ Veränderungen in der Medienlandschaft der Schweiz um 1965]] (📜 TANNER 2015, 373ff)
+		- [[⏯ Einsame Attacke aufs Bankgeheimnis 1964]] (📜 TANNER 2015, 178f.)
+- Widerwillige Bewegung
+	- 10. Revolte und Krisen (1966 bis 1975)
+		- [[⏯ 68-er Bewegung in der Schweiz]] (📜 TANNER 2015, 381ff.)
+		- [[⏯ Europäische Menschenrechtskonvention und die Schweiz]] (📜 TANNER 2015, 392ff.)
+		- [[⏯ Vergrösserung des Umweltbewusstseins in der Schweizer Bevölkerung]] (📜 TANNER 2015, 401ff.)
+		- [[⏯ Anti-AKW Bewegung in der Schweiz]] (📜 TANNER 2015, 401ff.)
+		- [[⏯ Schweizer Aussenpolitik auf Annäherungskurs]] (📜 TANNER 2015, 406ff.)
+		- [[⏯ Wirtschaftskrise 1974-76 in der Schweiz]] (📜 TANNER 2015, 418ff.)
+	- 11. Umbau und Flexibilisierung (1976 bis 1989)
+		- [[⏯ Vorzeichen einer globalisierten Wirtschaft]] (📜 TANNER 2015, 420ff.)
+		- [[⏯ Züri brännt]] (📜 TANNER 2015, 423ff.)
+		- [[⏯ Parteienstärke im Bundesstaat um 1980]] (📜 TANNER 2015, 429ff.)
+		- [[⏯ Cincera-Skandal]] (📜 TANNER 2015, 435f.)
+		- [[⏯ Neue Kantonsgrenzen im Jura]] (📜 TANNER 2015, 436ff.)
+		- [[⏯ Kriselndes Militär um 1980]] (📜 TANNER 2015, 438ff.)
+	- 12. Schweizer Wenden um 1990
+		- [[⏯ Chiasso-SKAndal und das Bankgeheimnis]] (📜 TANNER 2015, 451ff.)
+		- [[⏯ Rechtsangleichung der Schweiz um 1990]] (📜 TANNER 2015, 456f.)
+		- [[⏯ Frauenpolitik im ausgehenden 20. JH in der Schweiz]] (📜 TANNER 2015, 461ff.)]
+		- [[⏯ Der Kopp-Skandal]] (📜 TANNER 2015, 466ff.)
+		- [[⏯ PUK Leuenberger]] (📜 TANNER 2015, 469ff.)
+		- [[⏯ Fichenskandal]] (📜 TANNER 2015, 471ff.)
+		- [[⏯ P26]] (📜 TANNER 2015, 475f.)
+		- [[⏯ Blocher's SVP]] (📜 TANNER 2015, 487ff.)l
+		- [[⏯ Ende der Wirtschaftsfestung Schweiz]] (📜 TANNER 2015, 492ff.)
+		- [[⏯ Anti-EWR Kampagne]] (📜 TANNER 2015, 500ff.)
+	- 13. Souveränitätsmythos und europäische Integration (1992 bis 2010)
+		- [[⏯ Vom EWR-Nein zu den Bilateralen]] (📜 TANNER 2015, 567ff.)
+		- [[⏯ Internationalisierung, Neoliberalisierung und Privatisierung der Schweiz]] (📜 TANNER 2015, 513ff.)
+		- [[⏯ Schweizer Gemeinderückgang in den 90-er Jahren]] (📜 TANNER 2015, 517f.)
+		- [[⏯ Lehrreiche 90er für die Schweiz]] (📜 TANNER 2015, 520)
+		- [[⏯ Die Bergier-Kommission]] (📜 TANNER 2015, 521ff.)
+		- [[⏯ Verfassungsrevision der Schweiz 1999]] (📜 TANNER 2015, 524f.)
+		- [[⏯ "Swissness"]] (📜 TANNER 2015, 528f.)
+		- [[⏯ Parteienstärke im Bundesstaat um die Jahrtausendwende]] (📜 TANNER 2015, 531f.)
+		- [[⏯ Stärke der SVP um die Jahrtausendwende]] (📜 TANNER 2015)
+		- [[⏯ Tiefsteuerpolitik am Anschlag]] (📜 TANNER 2015, 536f.)
+		- [[⏯ Endpunkte des langen 20. Jarhundert]] (📜 TANNER 2015, 538ff.)
+			- [[⏯ Rettung der UBS in der Finanzkrise]] (📜 TANNER 2015, 539ff.)
+			- [[⏯ Anerkennung der Verfehlungen des Verdingwesens]] (📜 TANNER 2015, 543ff.)
+			- [[⏯ Masseneinwanderungsinitative 2014]] (📜 TANNER 2015, 546ff.)

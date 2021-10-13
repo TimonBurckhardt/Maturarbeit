@@ -1,0 +1,7 @@
+- [[⚓️ Referenz]]
+	- Autor: [[🧑 OneStutteringMind]]
+	- Link: https://invidious.snopyta.org/watch?v=SUOdfa3MucE
+	- Zugriffsdatum: [[May 26th, 2021]]
+	- Medium: [[🔖 Video]]
+- [[📝 Grundgedanken]]
+	-

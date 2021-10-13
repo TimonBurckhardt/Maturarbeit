@@ -1,0 +1,36 @@
+---
+title: ⏯ Eine Arbeit schreiben - Schritt für Schritt
+---
+
+- Notiztyp: [[⏯]]
+- Quelle: [[🚼 How to Take Smart Notes - Sönke Ahrens]]
+- Verknüpfungen: [[⏯ Wer den Zettelkasten brauchen kann]] [[⏯ Wie sollte sich die Arbeit mit dem Zettelkasten anfühlen?]]
+- Datum: [[Dec 11th, 2020]]
+- 1. Quicknotes machen.
+	- Wann immer wir lesen oder etwas hören, sollten wir nebenbei die interessanten Dinge aufschreiben.
+	- Quicknotes müssen keinerlei Langzeit-Wert haben.
+- 2. Literaturnotizen machen.
+	- Literaturnotizen sollten den Inhalt kurz zusammenfassen und zusammen mit den bibliographischen Details gelagert werden.
+		- Wenn es darum geht, Literaturnotizen zu machen, ist es wichtig, extrem selektiv zu sein. Es geht nicht darum, den Text zusammenzufassen, sondern die nützlichen Ideen herauszuziehen.
+- 3. Permanente Notizen machen.
+	- Permanente Notizen sollten eigene Erkenntnisse und Ideen enthalten. Jede Notiz sollte genau eine Idee enthalten.
+		- Bei jeder Permanenten Notiz die wir machen, müssen wir uns ein paar Dinge überlegen:
+			- Kann ich diese Notiz mit einer anderen verknüpfen?
+				- Widerspricht sie einer anderen Notiz?
+				- Unterstützt sie die Idee hinter einer anderen Notiz?
+			- Was für neue Fragen wirft die Notiz/Idee auf?
+				- will ich etwas zu dieser neuen Frage schreiben?
+-
+  4. Permanente Notizen einsortieren.
+	- Das Einsortieren der Notizen ist beinahe das wichtigste. Hier legen wir fest, in welchem Kontext wir dieser Notiz wieder begegnen wollen. (Wir wollen sie aber nicht einem Thema zuordnen...)
+- 5. Vertiefen
+	- Wann immer wir Lust und Zeit haben, sollten wir unsere Ideen und Interessen weiterverfolgen und vertiefen.
+		- Wenn wir nicht wissen, was wir lesen sollen, sollten wir in den Zettelkasten schauen statt zu "brainstormen"
+- 6. Thema definieren
+	- Sobald wir genügend Notizen haben (oder im Notfall auch sobald wir müssen), können wir unseren Zettelkasten durchstöbern, um ein geeignetes Thema für unseren Text zu finden. So gehen wir sicher, dass wir über etwas schreiben, was uns interessiert und wozu wir schon ein paar Ideen haben.
+		- Wenn ein Thema gefunden ist, können wir den Zettelkasten nach allen relevanten Notizen durchsuchen und diese auf unseren "Desktop" bringen.
+			- So erkennen wir auch gleich, wo wir noch weiterlesen müssen, weil die Argumentation noch Löcher hat.
+- 7. Entwurf zusammenstellen
+	- Sobald die grössten Argumentationslöcher gestopft sind, geht es darum, unsere Ideen in einen Entwurf zu übersetzen. Es geht nicht darum, einfach unsere Ideen in eine lineare Form zu kopieren. Wenn wir sie "übersetzen", verstehen wir unsere Ideen gleich nochmals besser und sie sind in kohärenter in ihrer linearen Ordnung.
+- 8. Manuskript überarbeiten
+	- Dieser letzte Schritt ist nun beinahe geschenkt. Es geht nur noch um die kleinen Details und ein Ende ist in Sicht.

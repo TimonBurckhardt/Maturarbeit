@@ -1,0 +1,124 @@
+---
+title: 🚼 How to Take Smart Notes - Sönke Ahrens
+---
+
+- Notiztyp: [[🚼]] Zettelkasten
+- Quelle: [Buch "How to Take Smart Notes" ](📜 AHRENS 2017)
+- Autor*in: Sönke Ahrens
+- Datum: December 8th, 2020
+- Aufgekommene Fragen:
+	- Wieso funktioniert der Zettelkasten?
+	- Wieso brauche **ich** Notizen?
+	- Was verdient eine Notiz?
+	- Wo liegt die Grenze zwischen LN und PN?
+	- Wie kann der Zettelkasten technisch sinnvoll umgesetzt werden?
+	- Wie empfinde ich die Arbeit mit dem Zettelkasten?
+	- Wie wende ich den Zettelkasten konkret an, wenn ich ein Buch lese?
+	- Was ist mein Unterschied zwischen LN und RN?
+	- Ist RN und fleeting note dasselbe?
+	- Wie gebe ich die Quelle an?
+	- In welchem Editor könnte ich eine Arbeit schreiben?
+		- hängt mit den Referenzen und Quellen zusammen...
+	- Wo im Text haben Backlinks ihren Platz?
+	- Wie brauche ich Schlagwörter?
+- Einleitung
+	- [[⏯ Was ist Schreiben?]]
+	- [[⏯ Warum Notizen wichtig sind]]
+	- [[⏯ Was beim Schreiben zählt]]
+	- [[⏯ Wer den Zettelkasten brauchen kann]]
+- 1) Everything you need to know
+	- [[⏯ Was wir brauchen, um gute Notizen zu machen]]
+	- [[⏯ Dunning-Kruger Effekt]]
+	- [[⏯ Expert*innen sind keine Planer*innen]]
+	- 1.1 Good solutions are simple - and unexpected
+		- [[⏯ Wieso das System "Getting Things Done" von David Allen funktioniert]]
+		- [[⏯ Was ist ein gutes Notiz-System?]]
+	- 1.2 The Slip-Box
+		- [[⏯ Flexibilität im Zettelkasten]]
+		- [[⏯ Wieso der Zettelkasten lange Zeit nicht verstanden wurde]]
+	- 1.3 Slip-Box Manual
+		- [[⏯ Grundsätzliche Funktionsweise des Zettelkastens]]
+- 2) Everything you need to do
+	- [[⏯ Was mit dem Zettelkasten zu tun bleibt]]
+	- 2.1 Writing a paper step by step
+		- [[⏯ Eine Arbeit schreiben - Schritt für Schritt]]
+- 3) Everything you need to have
+	- [[⏯ Werkzeuge für die Arbeit mit dem Zettelkasten]]
+- 4) A few things to keep in mind
+	- [[⏯ Das Zettelkasten-Mindset]]
+- 5) Writing is everything
+	- [[⏯ Was ist Schreiben?]]
+- 6) Simplicity is Paramount
+	- [[⏯ Zettelkasten als standardisierter Container]]
+	- [[⏯ Die unterschiedlichen Notiztypen im Zettelkasten]]
+	- [[⏯ Probleme bei der Vermischung von verschiedenen Arten von Notizen]]
+- 7) Nobody Ever Starts From Scratch
+	- [[⏯ Themenwahl und Arbeitsbeginn]]
+	- [[⏯ Zeitpunkt der Themenwahl]]
+- 8) Let the Work Carry You Forward
+	- [[⏯ Tägliches Feedback durch Notizen]]
+	- Vernetztes Lernen macht mehr Spass und ist einfacher.
+- 9) Separate and Interlocking Tasks
+	- [[⏯ Warum Multitasking keine gute Idee ist]]
+	- [[⏯ Aufmerksames "Schreiben"]]
+	- [[⏯ Expert*innen sind keine Planer*innen]]
+	- [[⏯ Grenzen des Kurzzeitgedächtnisses]]
+	- [[⏯ Willenskraft als begrenzte Ressource]]
+	- [[✅ Drei Dinge die unser Hirn langsam machen]]
+- 10) Read for Understanding
+	- 10.1 Read With a Pen in Hand
+		- [[⏯ Techniken um Buchnotizen zu machen]]
+		- [[⏯ Was Literaturnotizen enthalten sollten]]
+		- [[⏯ Wozu Literaturnotizen dienen (sollten)]]
+	- 10.2 Keep an Open Mind
+		- [[⏯ Der Confirmation Bias]]
+		- [[⏯ Wie der Zettelkasten den Confirmation Bias bekämpft]]
+	- 10.3 Get the Gist
+		- [[⏯ Wieso uns nur die Kernaussage interessieren sollte]]
+		- [[⏯ Wie wir lernen, nur die Kernaussagen zu beachten]]
+	- 10.4 Learn to Read
+		- [[⏯ Schreiben um zu Verstehen]]
+		- [[⏯ Schreiben vs. Wiederholen]]
+	- 10.5 Learn by Reading
+		- [[⏯ Lernen will geübt sein]]
+- 11) Take Smart Notes
+	- 11.1 Make a Career One Note at a Time
+		- [[⏯ Notizen als Massstab für Produktivität]]
+	- 11.2 Think Outside the Brain
+		- [[⏯ Denken durch Schreiben]]
+	- 11.3 Learn by not Trying
+		- [[⏯ Verstehen statt Büffeln]]
+	- 11.4 Adding Permanent Notes to the Slip-Box
+- 12) Develop Ideas
+	- [[⏯ Lücken im Zettelkasten]]
+	- 12.1 Develop Topics
+		- [[⏯ Schlagwörter im Zettelkasten]]
+	- 12.2 Make Smart Connections
+		- [[⏯ Links im Zettelkasten]]
+	- 12.3 Compare, Correct and Differentiate
+		- [[⏯ Ideen erkennen und verbessern]]
+	- 12.4 Assemble a Toolbox for Thinking
+		- [[⏯ Systemdenken und der Zettelkasten]]
+	- 12.5 Use the Slip-Box as a Creativity Machine
+		- [[⏯ Erleuchtung durch den Zettelkasten]]
+	- 12.6 Think Inside the Box
+		- [[⏯ Mit Notizen spielen um zu Lernen]]
+		- [[⏯ Abstraktion als Weg zur Lösung]]
+	- 12.7 Facilitate Creativity through Restrictions
+		- [[⏯ Einschränkungen als Entlastung]]
+- 13 Share Your Insight
+	- [[⏯ Ein Thema wählen mit dem Zettelkasten]]
+	- 13.1 From Brainstorming to Slip-box-Storming
+		- [[⏯ Zettelkasten-Stöbern statt Brainstorming]]
+	- 13.2 From Top Down to Bottom Up
+	- 13.3 Getting Things Done by Following Your Interests
+		- [[⏯ Effektiv arbeiten durch Motivation und Kontrolle]]
+	- 13.4 Finishing and Review
+		- [[⏯ Inhaltsverzeichnis als Arbeitsstruktur]]
+		- [[⏯ Mehrere Arbeiten gleichzeitig schreiben]]
+	- 13.5 Becoming an Expert by Giving up Planning
+		- [[⏯ Expert*innen sind keine Planer*innen]]
+	- 13.6 The Actual Writing
+		- [[⏯ Mit Entwürfen zum Endprodukt]]
+- 14 Make It a Habit
+	- [[⏯ Gewohnheiten um Dinge fertig zu bringen]]

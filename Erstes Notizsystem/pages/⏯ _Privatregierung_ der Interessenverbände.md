@@ -1,0 +1,6 @@
+- Notiztyp: [[⏯]]
+- Quelle: [[🚼 Geschichte der Schweiz im 20. Jahrhundert - Jakob Tanner]]
+- Verknüpfungen: [[⏯ Kartelle & Verbandsfreiheit in der Schweiz]] [[⏯ Politische Mächte im Bundesstaat des Fin de Siècles]]
+- Datum: [[Dec 28th, 2020]]
+- Das Aufkommen diverser Interessenverbände (Gewerbeverband, Handels- & Industrieverein, Bauernverband, Schweizerischer Gewerkschaftsbund) veränderte den politischen Prozess der Schweiz nachhaltig.
+	- Das Parlament wurde oft vor schon fertiggestellte Kompromisse gestellt, die es nur noch abwinken musste.

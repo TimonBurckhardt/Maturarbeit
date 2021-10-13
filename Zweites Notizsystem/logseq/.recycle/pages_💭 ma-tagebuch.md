@@ -1,0 +1,43 @@
+---
+title: 💭 MA-Tagebuch
+---
+
+- [[Apr 9th, 2021]]
+	- Die MA scheint mir jetzt wirklich aufgegleist. Wenn ich nach den Ferien zurück bin, wird es darum gehen, mir langsam eine Zettelkasten-Routine aufzubauen.
+		- Ich habe meine ersten Bücher, mit welchen ich den Einstieg ins Thema der Verbandspolitik, bzw. der Geschichte der Verbandspolitik schaffen will. Zum Start möchte ich mir einen technischen Überblick über die vorgesehene Rolle der Verbände im politischen System der Schweiz verschaffen.
+		- Das Thema hat sich nun über die Zeit genügend eingegrenzt, dass ich einen vielversprechenden Startpunkt finden konnte. War es zuerst noch "hauptsache Zettelkasten", dann "Geschichte der Schweiz im 20. JH", kann ich jetzt schon einigermassen konkret in die Thematik der Spitzenverbände eintauchen.
+		- Ich weiss, dass ich am Schluss auch noch einen kleinen Text aus meinen Notizen schreibe. Was braucht es wohl noch, um die Notizen in einen Fliesstext zu verwandeln?
+		- Offene Fragen: #[[MA-Inbox]]
+			- Wie verfolge ich meine Arbeit? Will ich penibel aufschreiben, oder einfach drauflosgehen? Was gibt es für Mittelwege?
+			- Wie wird meine MA bewertet? => wird von RöM vorgeschlagen
+- [[Apr 15th, 2021]]
+	- Der Start ist gerade ein wenig holprig. Von den ersten Büchern erfüllt keines, was ich mir erhofft habe. Inhaltlich sind sie entweder zu plakativ, zu alt, oder aber zu komplex. Auch haben sie alle nur wenig bis keine Literaturverweise, was dazu führt, dass ich noch einmal von vorne Bücher suchen muss.
+		- Die "Politische Schweiz" von Neidhart ist sehr spannend. Jedoch ist es ein sehr komplexes Werk, welches meine Thematik nur ganz kurz streift. Im kurzen Abschnitt zu den Verbänden werden ganz viele grosse Themen angesprochen, ohne aber durch Literaturverweise einen Einstiegspunkt zu bieten.
+- [[Apr 18th, 2021]]
+	- Endlich geht's los. Heute begann ich das Buch "Verbände und Demokratie" zu lesen. Auch wenn das Buch eher ein wenig alt ist, bietet es inhaltlich ziemlich genau das, worauf ich im Moment angewiesen bin. Ich erhielt einen ersten Überblick über die Geschichte der Wirtschaftsverbände, von der Antike bis hin zum Kartellgesetz aus dem Jahr 1962. Die anderen Bücher die ich zur Verfügung habe, werden wohl eher ein wenig happigere Literatur, da sie zum Teil auch in anderen Sprachen sind.
+- [[Apr 19th, 2021]]
+	- Heute begann ich damit, erste Literaturnotizen zum Thema zu verfassen. Es ist immer noch ein wenig ungewohnt, jede Aussage noch einmal in eigenen Worten wiederzugeben, aber mein Verständnis profitiert merklich davon. Mit der Zeit wird da wohl schon noch eine gewisse Routine reinkommen, die das ganze erleichtert.
+- [[Apr 20th, 2021]]
+	- Weiter ging's. Ich war wieder mindestens zwei Stunden am Literaturnotizen schreiben. Das Buch enthält so viele neue Informationen, das ich zu jeder Seite mindestens eine Notiz habe - das geht dann hoffentlich nicht mit allen Büchern in diesem Ausmass weiter, auch wenn es schön ist, viel neues zu lernen. Als nächstes möchte ich jetzt noch andere Quellen zu ähnlichen Themen finden, damit ich eine solide Grundfeste für mein Verständnis der Verbände habe.
+	- Die Begriffserklärungen sind sehr hilfreich, da es ja offensichtlich sehr viele Wörter für viel Gleiches aber teilweise trotzdem Unterschiedliches gibt.
+	- Das Thema der [[🗂 Kartelle]] scheint mir sehr spannend - da möchte ich gerne ein wenig weiterforschen.
+- [[May 12th, 2021]]
+	- Ich bin immer noch ein wenig überfordert, wie ich das Notizen-Schreiben in meinen Alltag integrieren kann.
+	- Vermutlich muss ich schon jetzt beginnen, auch gleich "Zettel" zu schreiben, damit meine Literaturnotizen nicht in den Tiefen des Chaos verschwinden.
+	- Das Potenzial von Logseq wäre wohl noch viel grösser. Da muss ich schauen, inwiefern ich das laufend besser nutzen kann, ohne vorhergehende Arbeit wieder zu verlieren.
+- [[May 30th, 2021]]
+	- Wie schon früher festgestellt, bin ich bisher kläglich gescheitert, meine MA in den Alltag zu integrieren.
+		- Mir fehlte die nötige Zeit, um tiefer einzutauchen. Ich habe diese "Anfangsinvestitionen" unterschätzt.
+		- Ich habe bisher nicht im Alltag gelesen, weshalb ich gar nicht erst die Möglichkeit hatte, mit den Notizen zu arbeiten.
+- [[Jun 24th, 2021]]
+	- Ich bin gerade motiviert, meine Blockade zu lösen. Das mache ich nicht durch ein Aufbrechen, sondern durch ein Umgehen.
+		- Nach kurzem denken & besprechen wurde mir klar, dass ich eigentlich nicht mehr das mache, was ich mit meiner MA machen wollte. Also mache ich einen Schritt zurück, um einen anderen Ansatzpunkt zu wählen.
+			- Der methodische Teil ist mir eigentlich immer noch viel wichtiger als der Inhalt. Der Inhalt ist lediglich da, um die Methoden auszuprobieren. Wenn ich nun auf die Methode eingehe, sind die nächsten Schritte auch gleich viel klarer:
+				- Ausgangspunkt 1, den Zettelkasten, besser verstehen
+					- mach ich mit Versuch 3, HQ&A => lese nochmals Ahrens
+				- dann: Ausgangspunkt 2, die Technologie (ls), besser verstehen
+				- dann: Versuche 1 (Seiten) & 2 (Blöcke) auswerten
+					- Die Versuche 1 und 2 basieren fast nur auf den Ausgangspunkten 1 und 2 - das ist wohl Teil vom Problem - und auch logisch, da Ausgangspunkt 3 noch grösstenteils undefiniert ist.
+				- dann: Ausgangspunkt 3, meine Ansprüche besser definieren
+				- dann: weitere Versuche durchführen und analysieren
+				- => Ich beginne mit dem schriftlichen Kommentar. Der Inhalt an sich ist - grob gesagt - nutzlos, wenn ich ihn nicht in eine gute Form bringen kann.

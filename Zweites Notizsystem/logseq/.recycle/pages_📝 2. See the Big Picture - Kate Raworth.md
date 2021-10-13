@@ -1,0 +1,45 @@
+---
+title: 📝 2. See the Big Picture - Kate Raworth
+---
+
+- [[📝 Grundgedanken]] - [[⚓️ Doughnut Economics - Kate Raworth]]
+  - [[Mar 19th, 2021]]
+    - [[📝]] Würde der Neoliberalismus als Theater aufgeführt, würden die Bühnenanweisungen wohl folgendermassen aussehen:
+      id:: 60550a23-6447-4544-bbbb-ec48e48de8de
+- Bühne: Diagramm des Wirtschaftskreislaufes
+- Skript: Mont Pelerin Society
+- Protagonist: __Homo oeconomicus__
+- Figuren:
+  - der Markt - er ist effizient, also soll er regieren
+  - die Privatwirtschaft - sie ist innovativ, also soll sie produzieren
+  - die Finanzwirtschaft - sie ist unfehlbar, also sollte ihr vertraut werden
+  - der Handel - er ist ein win-win-Geschäft, also setze ihm keine Grenzen
+  - der Staat - er ist unfähig, also soll er zur Seite stehen
+- Nicht beachtete Statist*innen:
+  - der Haushalt - er ist Privatsache, also sollen ihn die Frauen führen
+  - die Gemeingüter & Allmenden - sie sind tragisch, also müssen sie an die Privatwirtschaft verkauft werden
+  - die Gesellschaft - es gibt sie nicht, also muss sie auch nicht berücksichtigt werden
+  - die Erde - ist eine unendliche Quelle des Reichtums, also profitieren wir!
+  - Macht - ist irrelevant, also erwähnen wir sie nicht.
+    - [[📝]] Würde eine eingebettete Wirtschaft wie es vom Neoliberalismus vorgezeigt wurde als Theater aufgeführt, kämen wohl folgende Regieanweisungen zusammen:
+- Bühne & Skript: ein Werk der Gemeinschaft
+- Figuren:
+  - die Erde - sie ist lebensspendend, also respektieren wir ihre Grenzen
+  - die Gesellschaft - sie ist fundamental, also stärken wir ihr Netz
+  - die Wirtschaft - sie ist divers, also unterstützen wir sie in ihrer Diversität
+  - der Haushalt - er ist zentral, also geben wir ihm die verdiente Wertschätzung
+  - der Markt - er ist mächtig, also setzen wir ihn weise ein
+  - die Gemeingüter & Allmenden - sie sind kreativ, also entdecken wir ihre Breite
+  - der Staat - er ist essenziell, also vertrauen wir ihm Verantwortung an
+  - die Finanzwirtschaft - sie ist ein Service, also stellen wir sie in den Dienst der Gesellschaft
+  - die Privatwirtschaft - sie ist innovativ, also geben wir ihr einen Sinn
+  - der Handel - er ist ein zweischneidiges Schwert, also probieren wir in fair zu halten
+  - Macht - sie ist gefährlich, also halten wir sie im Zaum
+      - zugehörig:
+        - ((60550a23-6447-4544-bbbb-ec48e48de8de))
+  - [[📝]] In einer eingebetteten Wirtschaft gibt es vier tragenden Produzentinnen: die Haushalte, der Markt, der Staat und die Gemeingüter/Allmenden.
+    id:: 60550ad9-c818-4f4a-84b2-389b694f9991
+  - [[📝]] Die vier wichtigsten Produzentinnen der eingebetteten Wirtschaft haben all ihren eigenen produktiven Platz in der Gesellschaft, in welchem sie ihren Dienst tun können, ohne Schaden anzurichten.
+    - zugehörig:
+      - ((60550ad9-c818-4f4a-84b2-389b694f9991))
+  -
