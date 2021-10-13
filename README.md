@@ -11,5 +11,5 @@ Um die Notizsysteme in einer sinnvollen Art und Weise anzuzeigen, wird der Refer
 ![image](https://user-images.githubusercontent.com/69479623/137159896-00936a9a-7e89-47d8-90aa-20750d8571c8.png)
 4. Wenn am richtigen Ort geklickt wurde, hat sich ein Fenster mit dem lokalen Dateiverzeichnis des Computers geöffnet. In diesem Fenster kann nun der heruntergeladene und entpackte Ordner geöffnet werden, um eines der drei Notizsysteme im Programm zu öffnen. (1x auf den zu öffnenden Ordner klicken, dann auf die Schaltfläche "Ordner auswählen"/"choose folder" unten rechts klicken)
 ![image](https://user-images.githubusercontent.com/69479623/137161458-4e5ac040-caba-460e-93dd-0ab44fc9945d.png)
-6. Damit logseq ordnungsgemäss funktioniert, muss nun der Webseite der Zugriff auf den gewählten Ordner gestattet werden. Dazu muss in den vom Browser angezeigten pop-up's zweimal auf "akzeptieren" (o.ä.) geklickt werden.
+6. Damit logseq ordnungsgemäss funktioniert, muss nun der Webseite der Zugriff auf den gewählten Ordner gestattet werden. Dazu muss in den vom Browser angezeigten pop-ups zweimal auf "akzeptieren" (o.ä.) geklickt werden.
 7. Wenn alles Ordnungsgemäss funktioniert hat, erscheint nun die Seite "Oct 13th, 2021" in der Bedienoberfläche, auf welcher einige Informationen zum ausgewählten Notizsystem zu sehen sind.
