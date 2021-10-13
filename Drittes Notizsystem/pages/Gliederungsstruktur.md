@@ -1,0 +1,4 @@
+- Der oberste Block der Struktur ist ein "Elternteil"
+	- Darunter werden die "Kinder" eingerückt
+		- Auch "Kinder" können "Kinder" haben
+	- Blöcke einer selben Ebene sind "Geschwister"

@@ -1,0 +1,44 @@
+a.tag[data-ref="frage" i]::before {
+  content: "❓";
+  visibility: visible;
+  border-radius: 2px;
+  padding: 2px;
+  background: MediumSeaGreen;
+  box-shadow: 0 0 4px MediumSeaGreen;
+}
+
+a.tag[data-ref="frage" i] {
+  visibility: hidden;
+  width: 24px;
+  white-space: nowrap;
+}
+
+a.tag[data-ref="auskunft" i]::before {
+  content: "❗️";
+  visibility: visible;
+  border-radius: 2px;
+  padding: 2px;
+  background: skyblue;
+  box-shadow: 0 0 4px skyblue;
+}
+
+a.tag[data-ref="auskunft" i] {
+  visibility: hidden;
+  width: 24px;
+  white-space: nowrap;
+}
+
+a.tag[data-ref="vermutung" i]::before {
+  content: "💭";
+  visibility: visible;
+  border-radius: 2px;
+  padding: 2px;
+  background: orange;
+  box-shadow: 0 0 4px orange;
+}
+
+a.tag[data-ref="vermutung" i] {
+  visibility: hidden;
+  width: 24px;
+  white-space: nowrap;
+}

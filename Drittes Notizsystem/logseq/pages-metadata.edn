@@ -1,0 +1,620 @@
+[{:block/name "schweiz",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "wiederauffindbarkeit",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "attachments",
+  :block/created-at 1634124811508,
+  :block/updated-at 1634124811508}
+ {:block/name "@roam research as the tesla of note-taking apps",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "a",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "videorecording",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "💭 schnipsel",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "gliederung",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "📝 grundgedanken",
+  :block/created-at 1634124811509,
+  :block/updated-at 1634124811509}
+ {:block/name "sönke ahrens",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name
+  "📗 der gliederungseditor als seitenstruktur in einer graphbasierten notizapp",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name
+  "@zettelkasten’s 3 note-taking levels help you harvest your thoughts",
+  :block/created-at 1634124276773,
+  :block/updated-at 1634124276773}
+ {:block/name "blockade",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "favorites",
+  :block/created-at 1634127818949,
+  :block/updated-at 1634127818949}
+ {:block/name "datenbankabfragen",
+  :block/created-at 1634124811502,
+  :block/updated-at 1634124811502}
+ {:block/name "ernst tschanz",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "oct 13th, 2021",
+  :block/created-at 1634083200000,
+  :block/updated-at 1634126867344}
+ {:block/name "schlagwort",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "ordnung",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "vermutung",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "al khan",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "produktivität",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "wait",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "📗 niklas luhmann und die erfindung des zettelkastens",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "processing and structuring your notes",
+  :block/created-at 1634127818949,
+  :block/updated-at 1634127818949}
+ {:block/name "oct 3rd, 2021",
+  :block/created-at 1633219200000,
+  :block/updated-at 1633219200000}
+ {:block/name "blockreferenzen",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "gliederungseditor",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name
+  "@the complete guide for building a zettelkasten with roam research",
+  :block/created-at 1634124196443,
+  :block/updated-at 1634124196443}
+ {:block/name "memex",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "jul 15th, 2021",
+  :block/created-at 1626307200000,
+  :block/updated-at 1626307200000}
+ {:block/name "hierarchie",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "book",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "verband",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "@netzwerk",
+  :block/created-at 1634124242393,
+  :block/updated-at 1634124242393}
+ {:block/name "@spotting a graph-shaped problem",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "popularität",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "oct 4th, 2021",
+  :block/created-at 1633305600000,
+  :block/updated-at 1633305600000}
+ {:block/name "@introduction to the zettelkasten method",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "archiv",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "aug 26th, 2020",
+  :block/created-at 1598400000000,
+  :block/updated-at 1598400000000}
+ {:block/name "jun 21st, 2021",
+  :block/created-at 1624233600000,
+  :block/updated-at 1624233600000}
+ {:block/name
+  "@zettelkasten method: how to take smart notes (a beginner's guide)",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "jul 6th, 2021",
+  :block/created-at 1625529600000,
+  :block/updated-at 1625529600000}
+ {:block/name "interessenverband",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "📗 einbettung von notizen in ein netzwerk",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "vernetzung",
+  :block/created-at 1634124811508,
+  :block/updated-at 1634124811508}
+ {:block/name "zettelkasten",
+  :block/created-at 1634124811499,
+  :block/updated-at 1634124811499}
+ {:block/name "datenbank",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "📗 grupppierung von inhalten durch tags",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "@how to take smart notes",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "oct 2nd, 2021",
+  :block/created-at 1633132800000,
+  :block/updated-at 1633132800000}
+ {:block/name "wirtschaftsverband",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "backlinks",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "@as we may think",
+  :block/created-at 1634124223022,
+  :block/updated-at 1634124223022}
+ {:block/name "graphbasierte notizapp",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "david b. clear",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "vernetzen",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "pkm",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "apr 1st, 2021",
+  :block/created-at 1617235200000,
+  :block/updated-at 1617235200000}
+ {:block/name "schlagwörter",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "kommunikation",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "📗 maschen als grundlage eines netzwerkes",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "blogpost",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "apr 2nd, 2021",
+  :block/created-at 1617321600000,
+  :block/updated-at 1617321600000}
+ {:block/name "📗 die \"memex\" als technische gedächtniserweiterung",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "software commons",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "intelligenz",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "aug 13th, 2021",
+  :block/created-at 1628812800000,
+  :block/updated-at 1628812800000}
+ {:block/name "oct 1st, 2021",
+  :block/created-at 1633046400000,
+  :block/updated-at 1633046400000}
+ {:block/name "📗 zettel",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "vannevar bush",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "texteditor",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "@gliederungseditor",
+  :block/created-at 1634124283505,
+  :block/updated-at 1634124283505}
+ {:block/name "aug 11th, 2021",
+  :block/created-at 1628640000000,
+  :block/updated-at 1628640000000}
+ {:block/name "card",
+  :block/created-at 1634127818950,
+  :block/updated-at 1634127818950}
+ {:block/name "📗 vernetzte notizen für einen blick von aussen",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "📗 inneres wachstum im netzwerk von notizen",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "document",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "📗 beziehungen im gliederungseditor",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "outliner",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "eva keiffenheim",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "📗 blöcke in graphbasierten notizapps",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "roam research",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "evergreen notes",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "sep 30th, 2021",
+  :block/created-at 1632960000000,
+  :block/updated-at 1632960000000}
+ {:block/name "learning and thinking: for students",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "@outliner",
+  :block/created-at 1634124290161,
+  :block/updated-at 1634124290161}
+ {:block/name "sep 29th, 2021",
+  :block/created-at 1632873600000,
+  :block/updated-at 1634126052183}
+ {:block/name "booksection",
+  :block/created-at 1634124811499,
+  :block/updated-at 1634124811499}
+ {:block/name "adolfo ramírez corona",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "daily notes",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "kartell",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "📗 datenstruktur in einer relationalen datenbank",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "@how ideas are born in roam",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "doing",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "sgv-usam",
+  :block/created-at 1634127818951,
+  :block/updated-at 1634127818951}
+ {:block/name "begriff",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "@tagging, processing and structuring your notes",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634126183536}
+ {:block/name "later",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "dachverband",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "@verbände und demokratie in der schweiz.",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "durchsuchbarkeit",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "📗 eindeutige identifikation von inhalten",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "digitalisierung",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "encyclopediaarticle",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "aug 12th, 2021",
+  :block/created-at 1628726400000,
+  :block/updated-at 1628726400000}
+ {:block/name "tagging",
+  :block/created-at 1634127818951,
+  :block/updated-at 1634127818951}
+ {:block/name "abstract",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "sep 11th, 2021",
+  :block/created-at 1631318400000,
+  :block/updated-at 1634125943767}
+ {:block/name "kritische masse",
+  :block/created-at 1634124811499,
+  :block/updated-at 1634124811499}
+ {:block/name "sep 28th, 2021",
+  :block/created-at 1632787200000,
+  :block/updated-at 1632787200000}
+ {:block/name "gliederungsstruktur",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "📗 logseq als wahrgewordene \"memex\"",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "dec 31st, 2019",
+  :block/created-at 1577750400000,
+  :block/updated-at 1577750400000}
+ {:block/name "sc",
+  :block/created-at 1634127818952,
+  :block/updated-at 1634127818952}
+ {:block/name
+  "📗 der unterschied zwischen einem baum und einem netzwerk",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "b",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "schweizerischer gewerbeverband",
+  :block/created-at 1634124811508,
+  :block/updated-at 1634124811508}
+ {:block/name
+  "📗 frei bespielbare benutzeroberflächen in notizapps der neuen generation",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "auskunft",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "flexibilität",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "📗 gruppierungen in graphbasierten notizapps",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "relationale datenbank",
+  :block/created-at 1634124811497,
+  :block/updated-at 1634124811497}
+ {:block/name "📗 graphdatenbanken für vernetzte notizen",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "archivieren",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "sgv",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "todo",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "📗 abfrage von graphdatenbanken",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "sep 12th, 2021",
+  :block/created-at 1634123952146,
+  :block/updated-at 1634123952146}
+ {:block/name
+  "@this is the future of note-taking and personal knowledge management",
+  :block/created-at 1634124234499,
+  :block/updated-at 1634124234499}
+ {:block/name "frage",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "📗/niklas luhmann und die erfindung des zettelkastens",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "sep 21st, 2020",
+  :block/created-at 1600646400000,
+  :block/updated-at 1600646400000}
+ {:block/name "done",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "c",
+  :block/created-at 1634124811506,
+  :block/updated-at 1634124811506}
+ {:block/name "jun 7th, 2021",
+  :block/created-at 1623024000000,
+  :block/updated-at 1623024000000}
+ {:block/name "gruppierung",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "📗 verknüpfung von inhalten durch backlinks",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "@the five rules of roam",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "roaming writing",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "netzwerk",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "academics and nonfiction book writers",
+  :block/created-at 1634127818952,
+  :block/updated-at 1634127818952}
+ {:block/name
+  "📗 der unterschied zwischen einer gruppierung und einer verknüpfung",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "struktur",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "sortierung",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "@the two dimensions of roaming writing",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "niklas luhmann",
+  :block/created-at 1634124811498,
+  :block/updated-at 1634124811498}
+ {:block/name "masche",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "zielgruppe",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "karl meyer",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "📗 haltbarkeit von vernetzten notizen",
+  :block/created-at 1634124811503,
+  :block/updated-at 1634124811503}
+ {:block/name "nov 16th, 1879",
+  :block/created-at -2844115200000,
+  :block/updated-at -2844115200000}
+ {:block/name "selbstdisziplin",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "schreiben",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "@125 jahre schweizerischer gewerbeverband: 1879 - 2004",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "@kommunikation mit zettelkästen",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "@what is roam research?",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "📗 schattendasein des zettelkastens",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "webpage",
+  :block/created-at 1634124811495,
+  :block/updated-at 1634124811495}
+ {:block/name "durchstöbern",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "graphdatenbank",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "aug 10th, 2021",
+  :block/created-at 1628553600000,
+  :block/updated-at 1628553600000}
+ {:block/name "einfacher verband",
+  :block/created-at 1634124811498,
+  :block/updated-at 1634124811498}
+ {:block/name "📗 kommunikation mit der vernetzten notizsammlung",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name
+  "📗 kombination von verlinkungs- und gruppierungsmechanismen",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "@the power of writing in blocks",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "maaz ahmed",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "routine",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "@i cheated on the text editor with the graph database",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "📗",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "@roam research - white paper",
+  :block/created-at 1634124811509,
+  :block/updated-at 1634124811509}
+ {:block/name "erfindung",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "sascha",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "waiting",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "📗 effizienz einer graphdatenbank",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811494}
+ {:block/name "https://roamresearch.com/#/app/help/page/dz72v0ig6",
+  :block/created-at 1634127818953,
+  :block/updated-at 1634127818953}
+ {:block/name "ljubica lazarevic",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634124811505}
+ {:block/name "may 20th, 2020",
+  :block/created-at 1589932800000,
+  :block/updated-at 1589932800000}
+ {:block/name "jun 26th, 2021",
+  :block/created-at 1624665600000,
+  :block/updated-at 1624665600000}
+ {:block/name "conor white-sullian et al.",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634124811496}
+ {:block/name "jul 1st, 1945",
+  :block/created-at -773280000000,
+  :block/updated-at -773280000000}
+ {:block/name "jul 23rd, 2021",
+  :block/created-at 1626998400000,
+  :block/updated-at 1626998400000}
+ {:block/name "apr 12th, 2021",
+  :block/created-at 1618185600000,
+  :block/updated-at 1618185600000}
+ {:block/name "datenbankabfrage",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name "jul 20th, 2021",
+  :block/created-at 1626739200000,
+  :block/updated-at 1626739200000}
+ {:block/name "logseq",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "notizen",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name
+  "@zettelkasten — how one german scholar was so freakishly productive",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "north charleston",
+  :block/created-at 1634124811504,
+  :block/updated-at 1634124811504}
+ {:block/name "in-progress",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "graphen",
+  :block/created-at 1634124811507,
+  :block/updated-at 1634124811507}
+ {:block/name "📗 kanten in graphbasierten notizapps",
+  :block/created-at 1634124811496,
+  :block/updated-at 1634126154914}
+ {:block/name "📗 datenstruktur in einer graphdatenbank",
+  :block/created-at 1634124811493,
+  :block/updated-at 1634124811493}
+ {:block/name
+  "how to take smart notes: one simple technique to boost writing",
+  :block/created-at 1634127818953,
+  :block/updated-at 1634127818953}
+ {:block/name "datenstruktur",
+  :block/created-at 1634124811510,
+  :block/updated-at 1634124811510}
+ {:block/name "zettelkästen",
+  :block/created-at 1634124811494,
+  :block/updated-at 1634124811495}
+ {:block/name "now",
+  :block/created-at 1634124811511,
+  :block/updated-at 1634124811511}
+ {:block/name "@baum (graphentheorie)",
+  :block/created-at 1634124296984,
+  :block/updated-at 1634124296984}
+ {:block/name "contents",
+  :block/created-at 1634124811505,
+  :block/updated-at 1634126269695}
+ {:block/name "aug 9th, 2021",
+  :block/created-at 1634124365633,
+  :block/updated-at 1634124372589}
+ {:block/name "innovation",
+  :block/created-at 1634124811509,
+  :block/updated-at 1634124811509}
+ {:block/name "geschichte 1879-2004",
+  :block/created-at 1634127818953, 
+  :block/updated-at 1634127818953}]
